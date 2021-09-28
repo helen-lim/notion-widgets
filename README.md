@@ -1,2 +1,2 @@
 # notion-widgets
-Some widgets
+Some widgets in a github
